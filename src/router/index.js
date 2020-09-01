@@ -11,7 +11,7 @@ Vue.use(Router)
 export const constantRoutes = [
   {
     path: '/login',
-    component: () => import('@/users/UserLogin'),
+    component: () => import('./users/UserLogin'),
     redirect: '/'
   },
   {
