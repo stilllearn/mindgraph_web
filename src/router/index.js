@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 // import HelloWorld from '@/components/HelloWorld'
-import header from '../Layout/header'
+import header from './Layout/header'
 // import UserCreate from '../users/UserCreate'
 // import UserLogin from '../users/UserLogin'
 // import HelloWorld from '../components/HelloWorld'
